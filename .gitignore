@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python (データ分析でよく出る一時ファイル)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 出力・ログ
+*.log
